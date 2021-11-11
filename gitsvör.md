@@ -1,9 +1,9 @@
-* hvað gerir cd?:
-* hvað gerir ls?:
+* hvað gerir cd?: cd skipunin færir notendann á milli skjala.
+* hvað gerir ls?: ls eða list sínir manni skráirnar.
 * hvað gerir pwd?:
-* hvað gerir mkdir?:
+* hvað gerir mkdir?: mkdir skipunin býr til nýtt skjal.
 ---
-* hvað gerir git clone?:
+* hvað gerir git clone?: git clone geymir skjalið á þannig stað að þú hafir aðgang að því frá öðruim tölvum.
 * hvað gerir git status?:
 * hvað gerir git diff?:
 ---

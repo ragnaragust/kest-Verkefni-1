@@ -4,12 +4,12 @@
 * hvað gerir mkdir?: mkdir skipunin býr til nýtt skjal.
 ---
 * hvað gerir git clone?: git clone geymir skjalið á þannig stað að þú hafir aðgang að því frá öðruim tölvum.
-* hvað gerir git status?: 
+* hvað gerir git status?: það sýnir stöðuna í HEAD, t.d. hvaða skrár eru óskráðar og hverjum hafa verið breytt
 * hvað gerir git diff?: sýnir breytingar á skjalinu.
 ---
 * hvaða gagn gerir git log?: git log er eins og history. það sýnir þér allt sem þú ert búinn að gera.
-* hvaða gagn gerir git checkout?:
-* hvaða gagn gerir git branch?
+* hvaða gagn gerir git checkout?: git checkout leifir þér að ferðast á milli greina(branch).
+* hvaða gagn gerir git branch?: sýnir allar staðtengdar greinar.
 ---
 1. hvað er útgáfustýring (version control)?
 2. hverjir eru helstu kostir við að nota git?

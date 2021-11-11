@@ -1,13 +1,13 @@
 * hvað gerir cd?: cd skipunin færir notendann á milli skjala.
 * hvað gerir ls?: ls eða list sínir manni skráirnar.
-* hvað gerir pwd?:
+* hvað gerir pwd?: print working directory er mikið notað þegar maður vill vita í hvaða skjali maður er í og hjálpar manni að ferðast á milli skjala.
 * hvað gerir mkdir?: mkdir skipunin býr til nýtt skjal.
 ---
 * hvað gerir git clone?: git clone geymir skjalið á þannig stað að þú hafir aðgang að því frá öðruim tölvum.
-* hvað gerir git status?:
-* hvað gerir git diff?:
+* hvað gerir git status?: 
+* hvað gerir git diff?: sýnir breytingar á skjalinu.
 ---
-* hvaða gagn gerir git log?:
+* hvaða gagn gerir git log?: git log er eins og history. það sýnir þér allt sem þú ert búinn að gera.
 * hvaða gagn gerir git checkout?:
 * hvaða gagn gerir git branch?
 ---

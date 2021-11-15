@@ -11,7 +11,7 @@
 * hvaða gagn gerir git checkout?: git checkout leifir þér að ferðast á milli greina(branch).
 * hvaða gagn gerir git branch?: sýnir allar staðtengdar greinar.
 ---
-1. hvað er útgáfustýring (version control)?
-2. hverjir eru helstu kostir við að nota git?
-3. hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
-4. hvað er átt við með "working directory"?" og "staging area" í git
+1. hvað er útgáfustýring (version control)?: version control er hluturinn sem geimir skipanir þínar svo þú getir pasteað þær aftur seinna.
+2. hverjir eru helstu kostir við að nota git?: þú getur forritið í eigin tölvu í staðin fyrir að þurfa að nota netið.
+3. hversu oft telur þú að eigi að gera færslur (commit) í verkefni?: alltef þegar maður ætlar að savea eitthvað og áður enn að maður fer úr forritinu.
+4. hvað er átt við með "working directory"?" og "staging area" í git: skjöl sem verða partur af aðal skjalinu þegar maður commitar skjalið.
